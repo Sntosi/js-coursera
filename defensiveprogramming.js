@@ -1,3 +1,7 @@
+// Anticipate and prevent errors before they occur. The goal is to write code that gracefully handles unexpected inputs, environmental conditions, or usage patterns.
+// Think of it as building a strong safety net around your code.
+
+
 // Defensive programming is all about assuming that all the arguments a function will receive are of the wrong type,  the wrong value or both.
 
 // In other words, you are assuming that things will go wrong and you are proactive in thinking about such scenarios before they happen, so as to make your function less likely to cause errors because of faulty inputs.

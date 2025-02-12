@@ -1,3 +1,17 @@
+// A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data. 
+// It emphasizes immutability, pure functions, and composition.
+
+// Pure Functions: A function that:
+
+                   // Always returns the same output for the same input.
+
+                    // Has no side effects (doesn't modify any state outside the function itself).
+
+// Immutability: Data should not be modified after it's created. Instead of changing existing data, you create new data
+
+
+
+
 // Lab Instructions: Building a Functional Program
 
 // In this exercise you'll get hands-on practice with functional programming concepts.
